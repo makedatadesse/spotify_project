@@ -3,6 +3,8 @@
 ## Description: 
 This project sets the foundation for the long term data collection and archiving of my personal user data in the form of my most listened to songs of the past year (April 2024 – April 2025) through SpotiPy, a third party Spotify linked API specifically for Python. Spotify has recently deprecated access to many of their most interesting request features – specifically audio_features and genres – which in turn deprecated access to such requests through SpotiPy as well. To circumvent this, the MusicBrainz API was linked to pull genre information for each track.
 
+*Left in at the very end of the codebook are mini tests with smaller batches before pulling large requests/calls.*
+
 ## Rationale: 
 This project is meant to be an ongoing replicable code for keeping a record of songs and artists listened to the most for each passing year. Emulating Spotify’s Wrapped – which is only accessible by users for the two months following – this project is meant to be an improvement of the feature by allowing the ability to save, archive, and thus retrieve, listening history. Consciously we can make assumptions about the type of music we prefer to listen to, but the data of who we are through what we listen to can provide us with a clearer story.
 

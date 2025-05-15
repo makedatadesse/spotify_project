@@ -1,0 +1,51 @@
+,rank,artist,song name,genres,album,explicit,energy,danceability,happiness,popularity,track_id,MBID,num_genres,weight,genre_group
+0,1,SAILORR,POOKIE'S REQUIEM,r&b,POOKIE'S REQUIEM,1,70,50,66,23,0Cu1FFIqiLPHXDLCxTUUnR,b1a17965-b396-42e4-84f7-25d42b12f7c0,0,1,R&B + Soul
+1,2,Cash Cobain,CASH COBELLA CHOW COBIZZY,hip hop,2 SLIZZY 2 SEXY (DELUXE),1,60,65,53,23,5Y2rV3zOArTzTYKVD1umBA,4f57372b-2054-4722-a534-a99ab2598120,0,1,"Hip-Hop, Rap"
+2,3,Hiatus Kaiyote,Telescope,"neo soul, r&b",Telescope,0,64,72,70,27,29oH20WCU0mVO3SwfIaaib,55c03773-59ea-4d4e-9057-87c2ecab005d,2,0.5,R&B + Soul
+3,4,Eem Triplin,YEAH YEAH!,"hip hop, trap",YEAH YEAH!,1,48,46,30,43,1spPgvtcDwxARDc8i6TYjT,c834075f-eecf-4c27-8276-d54fc2c0ed86,2,0.5,"Hip-Hop, Rap"
+4,5,Samiyam,smoke break,hip hop,Animals Have Feelings,0,54,42,45,13,3ZHVUjAoLmwPCa2tTRfk2s,6327bdfb-76b9-4a05-b447-01d98f1715dc,1,1,"Hip-Hop, Rap"
+5,6,_BY.ALEXANDER,FRIENDZONE,alternative r&b,FRIENDZONE,0,68,47,46,37,2CUWQEPhGo67JuDBng3jlN,03a81802-28fb-4733-a506-132886e40ed5,0,1,R&B + Soul
+6,7,Foolie $urfin,WHERE YOU BEEN,experimental rap,Stay Safe,1,76,50,50,21,5whMuC5R45eJ51iUGHKb4L,6c59e924-22f5-4534-8975-a3fef0ab4d4a,0,1,"Hip-Hop, Rap"
+7,8,Hiatus Kaiyote,Sparkle Tape Break Up,"neo soul, r&b",Mood Valiant,0,63,63,45,41,2HkkI8s7wDYFls9pMEnxPi,55c03773-59ea-4d4e-9057-87c2ecab005d,2,0.5,R&B + Soul
+8,9,Victoria Monét,On My Mama,"alternative r&b, funk, pop, r&b, soul",On My Mama,1,55,68,70,66,1o8Z7GD1CeOaVBEyuzu4HO,28d83274-26ab-4a6a-b9ff-340f4784e7dd,5,0.2,R&B + Soul
+9,10,Duckwrth,007 (Jersey Mix),"alternative r&b, trap soul",Chrome Bull DLX,1,71,39,69,44,1qLBZLeGS6FEHgVKWqhuVv,2bc82618-2d0f-436e-adb2-8aa0774dd799,2,0.5,R&B + Soul
+10,11,Leon Thomas,DANCING WITH DEMONS,contemporary r&b,MUTT,1,76,34,20,58,5d5zlLTuykcqoT4EhhyC2Q,412ff65d-26bf-4849-ba19-d2a58030fd1a,0,1,R&B + Soul
+11,12,SZA,Saturn,"alternative r&b, contemporary r&b, electronic, hip hop soul, neo soul, pop, r&b",Saturn,0,58,56,33,83,1bjeWoagtHmUKputLVyDxQ,272989c8-5535-492d-a25c-9f58803e027f,7,0.1428571429,R&B + Soul
+12,13,Jordan Ward,WHITE CROCS (with Ryan Trey),pop rap,FORWARD,1,43,71,65,15,0VNe1ZE8U2baB3JKZpEBok,1592ba81-f73b-4b13-b456-885630a1cfb2,0,1,"Hip-Hop, Rap"
+13,14,Jordan Ward,311 (with Gwen Bunn),alternative r&b,FORWARD,0,24,46,31,37,5cKRhjcflNOmlI2fqXBhjI,1592ba81-f73b-4b13-b456-885630a1cfb2,0,1,R&B + Soul
+14,15,St Germain,How Dare You,"acid jazz, deep house, downtempo, electronic, electronica, house, jazz, nu jazz",St Germain,0,61,58,56,44,4W3W4cbErPT3JCW60IxKKj,9a04dc8c-82f1-457a-a25a-3ff19e1b471e,8,0.125,"Funk, House, Dance"
+15,16,Eem Triplin,WALKED IN,"hip hop, trap",STILL PRETTY,1,52,66,65,46,232hyHvhIvmKSmN9LXy53n,c834075f-eecf-4c27-8276-d54fc2c0ed86,2,0.5,"Hip-Hop, Rap"
+16,17,Eem Triplin,ALLOCATE,"hip hop, trap",YEAH YEAH!,1,55,70,30,40,7njFMXMSIiLFzPH3jguEgt,c834075f-eecf-4c27-8276-d54fc2c0ed86,2,0.5,"Hip-Hop, Rap"
+17,18,The Defaulters,Gentle Man,soul,Gentle Man b/w Disco Dennis,0,39,39,44,34,5USP709Hvu8ApaxWk8pP0v,4c075066-c3f1-412c-bbcf-31ede03c89fc,0,1,R&B + Soul
+18,19,Boubacar Traoré,Duna Ma Yelema,"african blues, blues",Je chanterai pour toi,0,39,77,65,19,0HJwerukjDDd84wXbwLc43,5cc16125-511c-4669-9e56-651fec2690c3,2,0.5,Jazz + Blues
+19,20,DESTIN CONRAD,LUV N DEVOTION,dance reggae,SUBMISSIVE,0,64,73,76,36,1z0RylGOutcuAKix77tYYc,66d80005-1809-4b72-a57a-3414e1c63d93,0,1,"Funk, House, Dance"
+20,21,Leon Thomas,YES IT IS,contemporary r&b,MUTT,1,64,45,29,73,2iksjpqL3eraxCBKqNHuqd,412ff65d-26bf-4849-ba19-d2a58030fd1a,0,1,R&B + Soul
+21,22,Elijah Fox,Inside/Outside,"boom bap, chillwave, downtempo, hip hop, instrumental, instrumental hip hop, lo-fi, lo-fi hip hop",Jan 14 (Piano Improvisations),0,4,29,12,27,6e7v13Rt9La90c26VMKbR9,db12c40c-7e5d-420f-9923-e51c431ea0e3,8,0.125,"Hip-Hop, Rap"
+22,23,Majid Jordan,Tears In Your Eyes,"alternative r&b, contemporary r&b",Good People,0,30,50,28,40,17pJWWBWy7WXSnGa58DIZy,abaa7001-0d80-4e58-be5d-d2d246fd9d87,2,0.5,R&B + Soul
+23,24,Yeat,If We Being Rëal,"cloud rap, experimental hip hop, hip hop, pop rap, rage, trap",2093,1,50,45,21,80,0YThXX1dqUpYBLyJNAsF9N,9e6a6a2f-f696-4cc0-87f1-e4f712e46802,6,0.1666666667,"Hip-Hop, Rap"
+24,25,Hiatus Kaiyote,Dimitri,"neo soul, r&b",Love Heart Cheat Code,0,54,50,74,48,1a4uzwj1AaLhwWN8rUQxjg,55c03773-59ea-4d4e-9057-87c2ecab005d,2,0.5,R&B + Soul
+25,26,Jordan Ward,CHERIMOYA - BONUS,hip hop soul,FORWARD,1,32,52,39,51,0k4S8MgCg1CKWUy5hNV8GA,1592ba81-f73b-4b13-b456-885630a1cfb2,0,1,R&B + Soul
+26,27,Che Ecru,4 This Moment,r&b,Cold Toronto,1,48,45,45,53,1MWJbn3Yv8R1q5DaYOOzum,b07a8509-78d9-44b1-ab78-3321d0149ed4,1,1,R&B + Soul
+27,28,Eem Triplin,LET YOU KNOW (feat. $NOT),"hip hop, trap",LET YOU KNOW (feat. $NOT),1,30,54,20,50,2t7OeIXiUbCnA27HqDN73A,c834075f-eecf-4c27-8276-d54fc2c0ed86,2,0.5,"Hip-Hop, Rap"
+28,29,The Spy From Cairo,Nafas,nu jazz,Nafas,0,74,67,71,41,7E0QWFzUelKPQGrobHfpj2,79ea02de-c494-44d9-a0dc-aad2c15a23a9,0,1,Jazz + Blues
+29,30,Wores G. Egziabher,Abo Yiba,african blues,"Ethiopie, chants d'amour / Ethiopia, Love Songs",0,5,49,80,4,5Bl4hKwQIyvy1wSMeEmv3B,0ae9a3c8-9cc9-4d65-93b7-79b8a80da698,0,1,Jazz + Blues
+30,31,((( O ))),Wrong Way,electronic,((( 2 ))),0,34,48,7,31,0Mus1n0Xu6gKfE2Ux5iyot,3a274249-ed49-4d47-8589-98fc840f1674,0,1,"Funk, House, Dance"
+31,32,Billie Eilish,LUNCH,"alternative pop, alternative r&b, art pop, bedroom pop, contemporary r&b, electronic, electronica, electropop, indie pop, pop, pop rock, pop soul, singer-songwriter",HIT ME HARD AND SOFT,1,40,77,77,87,629DixmZGHc7ILtEntuiWE,f4abc0b5-3f7a-4eff-8f78-ac078dbce533,13,0.07692307692,Pop
+32,33,Kindness,With You,alternative indie,Otherness,0,27,58,37,0,71Ukt8JxMER4EcmJFVIjKN,71828a18-b630-4f50-8f75-51e71d31b807,0,1,"Indie, Lo-Fi"
+33,34,Leon Thomas,HOW FAST,contemporary r&b,MUTT,1,80,32,77,56,6pMujuxDlZv5k8RWktJAQw,412ff65d-26bf-4849-ba19-d2a58030fd1a,0,1,R&B + Soul
+34,35,KHYA,MARY'S STRAIN 144BPM,house,"MARYJANE, THE REMIXES",1,0,0,0,40,25dkvHpCszey9vRGmx6JzX,d48b94cc-f660-4b20-90d3-25a897d6494a,0,1,"Funk, House, Dance"
+35,36,Hiatus Kaiyote,Make Friends - Pocket Size Radio Edit,"neo soul, r&b",Make Friends,0,75,76,20,31,2TO33go9HrlIUiduVua6Ic,55c03773-59ea-4d4e-9057-87c2ecab005d,2,0.5,R&B + Soul
+36,37,The Weeknd,Timeless (feat. Playboi Carti),"alternative r&b, contemporary r&b, dance-pop, hypnagogic pop, pop, r&b, synth-pop",Timeless,1,78,77,65,75,1Es7AUAhQvapIcoh3qMKDL,c8b03190-306c-4120-bb0b-6f2ebfc06ea9,7,0.1428571429,R&B + Soul
+37,38,eLewminatti,She Got Dat,bass rap,She Got Dat,1,0,0,0,15,1fN72FFplfqoj57tOsCbrJ,,0,1,"Hip-Hop, Rap"
+38,39,Beyoncé,MY HOUSE,"contemporary r&b, dance, dance-pop, disco, hip hop, house, pop, pop rap, pop soul, progressive house, r&b, soul",MY HOUSE,1,85,77,77,66,7omJfT9s6V2IpQNBYyq5C8,859d0860-d480-4efd-970c-c05d5f1776b8,12,0.08333333333,R&B + Soul
+39,40,PARTYNEXTDOOR,R e s e n t m e n t,"alternative r&b, r&b, soul",R e s e n t m e n t,1,23,50,33,62,4HISFDmENrT1reZ5nMUe4l,f23ef341-33bd-47c1-b83c-846a78581f05,3,0.3333333333,R&B + Soul
+40,41,Elysian Spring,Blue Sands,jazz,Glass Flowers,0,4,55,35,57,4WBv31Au2sx5GXaSV8Q7y4,21da26c9-e4dc-4ddc-b79d-c7e9c214702e,0,1,Jazz + Blues
+41,42,Duhkey,Moon interlude,hypnagogic pop,Moon interlude,0,0,0,0,0,5g72TJuBwMewhFvr6gnowR,,0,1,"Indie, Lo-Fi"
+42,43,Jordan Ward,495,pop rap,FORWARD,1,42,49,22,35,6U3Do24Oaa2JruDP80gvRD,1592ba81-f73b-4b13-b456-885630a1cfb2,0,1,"Hip-Hop, Rap"
+43,44,Hello Yello,Alone In December,pop rock,Good Intentions,0,80,54,41,14,2pbdaZXyvGI4vpSWP6JR4b,cabff6d0-4340-4901-9cd7-2d3060bcb340,0,1,Pop
+44,45,Hello Yello,Good Intentions,pop rock,Good Intentions,0,82,63,60,18,1wHStyw8d3GiqP906Gfsk6,cabff6d0-4340-4901-9cd7-2d3060bcb340,0,1,Pop
+45,46,Humble the Great,u.,indie pop,u.,0,43,70,24,0,31YKmnHqN03fMd8XhEy6Et,84c34688-9b17-40bc-8178-61f6c6baefa7,0,1,"Indie, Lo-Fi"
+46,47,Merges,cool_v2,lo-fi,cool_v2,0,0,0,0,58,1ICIA18RiiuG86FKOxwmNp,c0ea01d9-6c7c-4630-b3b5-472078060abe,0,1,"Indie, Lo-Fi"
+47,48,Doechii,NISSAN ALTIMA,hip hop,Alligator Bites Never Heal,1,71,87,80,85,2dKkVF2m160z0RNDN2dddc,9f75277c-b283-4846-ac8c-f932255cd0ac,1,1,"Hip-Hop, Rap"
+48,49,Bonnie Calista,"Sunday Eve, Baby",hypnagogic pop,The Bonnie,0,39,75,55,31,5Qijvo3zogb96ejSUK6JEV,,0,1,"Indie, Lo-Fi"
+49,50,Beyoncé,Green Light,"contemporary r&b, dance, dance-pop, disco, hip hop, house, pop, pop rap, pop soul, progressive house, r&b, soul",B'Day Deluxe Edition,0,57,80,73,53,3JdDBUiZ1UJv7J7RQqxEFF,859d0860-d480-4efd-970c-c05d5f1776b8,12,0.08333333333,R&B + Soul
